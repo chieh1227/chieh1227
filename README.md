@@ -13,7 +13,7 @@ Currently looking for **software engineering internship** opportunities.
 
 ## Featured Projects
 
-### [Quantile Regression Forest — Implementation & Application](https://github.com/chieh1227/qrt)
+### [Quantile Regression Forest — Implementation & Application](https://github.com/Hubert0916/qrt)
 Built QRT and QRF models from scratch with custom split criteria (pinball loss, MSE, R²) and achieved 60x training speedup through algorithmic optimizations. Applied to ESG-based stock return prediction with a quantile-driven trading strategy. NYCU research project.
 
 ### [Credit Risk Prediction (TCRI)](https://github.com/chieh1227/fintech_ML_project)
