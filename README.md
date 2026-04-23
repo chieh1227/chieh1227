@@ -13,6 +13,9 @@ Currently looking for **software engineering internship** opportunities.
 
 ## Featured Projects
 
+### [Quantile Regression Forest — Implementation & Application](https://github.com/chieh1227/qrt)
+Built QRT and QRF models from scratch with custom split criteria (pinball loss, MSE, R²) and achieved 60x training speedup through algorithmic optimizations. Applied to ESG-based stock return prediction with a quantile-driven trading strategy. NYCU research project.
+
 ### [Credit Risk Prediction (TCRI)](https://github.com/chieh1227/fintech_ML_project)
 Predicting corporate credit risk using 6 ML models (XGBoost, Neural Networks, Random Forest, etc.) on financial ratio data for 1000+ Taiwanese companies. Includes SHAP explainability and probability calibration.
 
