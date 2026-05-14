@@ -11,9 +11,13 @@ particularly in ML / LLM product development.
 ## Tech Stack
 
 Languages: Python · JavaScript · TypeScript · SQL · C/C++
+
 ML / RAG: scikit-learn · XGBoost · Pandas · Autogen · Dify · Prompt Optimization
+
 Web / App: Next.js · React · Node.js · Tailwind CSS · HTML/CSS
+
 Tools: Git · Docker · MySQL · Linux · Jupyter Notebook
+
 Technical Areas: Retrieval-Augmented Generation (RAG) · Multi-Agent System · Machine Learning
 
 ## Featured Projects
