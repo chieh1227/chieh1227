@@ -1,8 +1,12 @@
 # Hi, I'm Ying-Chieh 👋
 
-Graduating with a dual degree in **Information Management** and **Finance**, heading into a **Data Science** master's program. I enjoy building things across the full stack and diving into ML problems.
+Bachelor's in Information Management and Finance at NYCU; incoming
+Master's student at NTU Department of Engineering Science and Ocean
+Engineering (Fall 2026), focusing on retrieval-augmented generation (RAG)
+and LLM applications.
 
-Currently looking for **software engineering internship** opportunities.
+Currently looking for Summer 2026 software engineering internships,
+particularly in ML / LLM product development.
 
 ## Tech Stack
 
