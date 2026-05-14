@@ -1,4 +1,4 @@
-# Hi, I'm Ying-Chieh 👋
+# Hi, I'm Joanne (Hsu Ying-Chieh) 👋
 
 Bachelor's in Information Management and Finance at NYCU; incoming
 Master's student at NTU Department of Engineering Science and Ocean
