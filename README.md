@@ -10,29 +10,45 @@ particularly in ML / LLM product development.
 
 ## Tech Stack
 
-Languages: Python · JavaScript · TypeScript · SQL · C/C++
-
-ML / RAG: scikit-learn · XGBoost · Pandas · Autogen · Dify · Prompt Optimization
-
-Web / App: Next.js · React · Node.js · Tailwind CSS · HTML/CSS
-
-Tools: Git · Docker · MySQL · Linux · Jupyter Notebook
-
-Technical Areas: Retrieval-Augmented Generation (RAG) · Multi-Agent System · Machine Learning
+**Languages**: Python · TypeScript / JavaScript · C++ · SQL · PHP
+**ML / Data**: scikit-learn · XGBoost · SHAP · pandas · Jupyter
+**LLM / Agent Tools**: Claude API · Dify · Autogen
+**Web**: Next.js · React · Express.js · Node.js
+**Infra**: Git · Docker · PostgreSQL · MySQL
 
 ## Featured Projects
 
-### [Quantile Regression Forest — Implementation & Application](https://github.com/Hubert0916/qrt)
-Built QRT and QRF models from scratch with custom split criteria (pinball loss, MSE, R²) and achieved 60x training speedup through algorithmic optimizations. Applied to ESG-based stock return prediction with a quantile-driven trading strategy. NYCU research project.
-
 ### [Credit Risk Prediction (TCRI)](https://github.com/chieh1227/fintech_ML_project)
-Predicting corporate credit risk using 6 ML models (XGBoost, Neural Networks, Random Forest, etc.) on financial ratio data for 1000+ Taiwanese companies. Includes SHAP explainability and probability calibration.
-
-### [AutoPrognosis + MRMR Feature Selection](https://github.com/chieh1227/python-final-project-mrmr)
-Extended an AutoML framework for clinical prognosis with a custom MRMR (Minimum Redundancy Maximum Relevance) feature selection plugin. Integrated into the pipeline with proper cross-validation and hyperparameter tuning.
+Predicting Taiwan corporate credit risk with six ML models (Logistic
+Regression, Random Forest, XGBoost, SVM, Neural Network, Gradient Boosting). XGBoost achieved ROC-AUC 0.822 / AUPRC 0.686. Includes
+time-aware train/valid/test splits, Platt scaling for probability
+calibration, and SHAP-based cross-model interpretation. Course project
+with shared codebase; my contribution: model implementation and the
+end-to-end training/evaluation pipeline.
 
 ### [ReLearnAI](https://github.com/chieh1227/ReLearnAI)
-AI-powered learning platform built with Next.js and Express.js. Contributed the frontend development and API integration as part of a GDSC team project.
+AI-powered review tool that generates concept-similar follow-up questions
+from a user's incorrect answers. Built with Next.js / Express.js /
+PostgreSQL, deployed via Docker Compose on Render. Integrates Claude API
+for question generation. GDSC team project; my contribution: frontend
+and Claude API integration.
+
+### [Quantile Regression Tree — ESG-based Return Prediction](https://github.com/Hubert0916/qrt)
+Team graduation project applying QRT / QRF to ESG-text-based stock return
+prediction. Implemented Quantile Regression Tree with Zero-Copy Indexing,
+Single-Pass per Feature, and Prefix-Sum split evaluation for training
+speedup. My contribution: QRT implementation and project visualizations.
+
+### [AutoPrognosis + MRMR Feature Selection](https://github.com/chieh1227/python-final-project-mrmr)
+Extended the AutoPrognosis AutoML framework with an MRMR (Minimum
+Redundancy Maximum Relevance) feature-selection plugin for clinical
+prognosis modeling.
 
 ### [Online Auction Platform](https://github.com/chieh1227/db_final_project)
-Second-hand auction marketplace with real-time bidding, seller dashboards, and wallet system. Built with PHP and MySQL.
+Second-hand auction marketplace with bidding, seller dashboards, and a
+wallet system. Built with PHP / MySQL / HTML / JavaScript. Team project
+of five; my contribution: database schema, seller pages, registration
+and login flow.
+
+## Contact
+Email: y.chieh1227@gmail.com
